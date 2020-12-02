@@ -1,0 +1,31 @@
+# depslib dependency file v1.0
+1580325960 source:c:\users\0\desktop\calculadora\main.cpp
+	<windows.h>
+	<commctrl.h>
+	<stdio.h>
+	"resource.h"
+	<math.h>
+
+1580326669 c:\users\0\desktop\calculadora\resource.h
+
+1580326135 source:c:\users\0\desktop\calculadora\resource.rc
+	<windows.h>
+	<commctrl.h>
+	<richedit.h>
+	"resource.h"
+
+1606920947 source:x:\c\calculadora\calculadora\main.cpp
+	<windows.h>
+	<commctrl.h>
+	<stdio.h>
+	"resource.h"
+	<math.h>
+
+1580330269 x:\c\calculadora\calculadora\resource.h
+
+1580330300 source:x:\c\calculadora\calculadora\resource.rc
+	<windows.h>
+	<commctrl.h>
+	<richedit.h>
+	"resource.h"
+
